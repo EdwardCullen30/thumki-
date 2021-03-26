@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/thumki-/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/thumki-/static/js/main.bab106a9.chunk.js",
+    "main.js.map": "/thumki-/static/js/main.bab106a9.chunk.js.map",
+    "runtime-main.js": "/thumki-/static/js/runtime-main.14035c80.js",
+    "runtime-main.js.map": "/thumki-/static/js/runtime-main.14035c80.js.map",
+    "static/css/2.de2ac02e.chunk.css": "/thumki-/static/css/2.de2ac02e.chunk.css",
+    "static/js/2.7c0c7931.chunk.js": "/thumki-/static/js/2.7c0c7931.chunk.js",
+    "static/js/2.7c0c7931.chunk.js.map": "/thumki-/static/js/2.7c0c7931.chunk.js.map",
+    "static/js/3.893dfa26.chunk.js": "/thumki-/static/js/3.893dfa26.chunk.js",
+    "static/js/3.893dfa26.chunk.js.map": "/thumki-/static/js/3.893dfa26.chunk.js.map",
+    "index.html": "/thumki-/index.html",
+    "static/css/2.de2ac02e.chunk.css.map": "/thumki-/static/css/2.de2ac02e.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/thumki-/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7c0c7931.chunk.js.LICENSE.txt": "/thumki-/static/js/2.7c0c7931.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thumki-/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14035c80.js",
+    "static/css/2.de2ac02e.chunk.css",
+    "static/js/2.7c0c7931.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bab106a9.chunk.js"
+  ]
+}
